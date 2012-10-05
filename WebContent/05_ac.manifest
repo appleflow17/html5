@@ -1,0 +1,14 @@
+CACHE MANIFEST
+# version 1.0.1
+#ĳ���� ����
+CACHE:
+05_ac.js
+05_ac.css
+image/offline.png
+
+#�ٸ� ���ҽ� ������ �������� ����
+NETWORK:
+*
+
+FALLBACK:
+
